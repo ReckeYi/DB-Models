@@ -1,3 +1,5 @@
-# WORKING ON...
+# DB Models
 
-My first backend project
+DB models and some requests
+
+Technologies: SQLAlchemy, PostgreSQL, Alembic
